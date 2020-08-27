@@ -1,0 +1,170 @@
+﻿Number,Town,Designation,Established Year,Land area (square miles),Population (in 2010),County
+1,Andover,Town,1848,15.46,"3,303",Tolland County
+2,Ansonia,City,1889,6.03,"19,249",New Haven County
+3,Ashford,Town,1714,38.79,"4,100",Windham County
+4,Avon,Town,1830,23.12,"18,098",Hartford County
+5,Barkhamsted,Town,1779,36.22,"3,620",Litchfield County
+6,Beacon Falls,Town,1871,9.78,"6,049",New Haven County
+7,Berlin,Town,1785,26.45,"19,866",Hartford County
+8,Bethany,Town,1832,20.97,"5,563",New Haven County
+9,Bethel,Town,1855,16.79,"18,584",Fairfield County
+10,Bethlehem,Town,1787,19.36,"3,607",Litchfield County
+11,Bloomfield,Town,1835,26.01,"20,486",Hartford County
+12,Bolton,Town,1720,14.41,"4,980",Tolland County
+13,Bozrah,Town,1786,19.97,"2,627",New London County
+14,Branford,Town,1685,21.98,"28,026",New Haven County
+15,Bridgeport,City,1821,16,"144,229",Fairfield County
+16,Bridgewater,Town,1856,16.23,"1,727",Litchfield County
+17,Bristol,City,1785,26.51,"60,477",Hartford County
+18,Brookfield,Town,1788,19.8,"16,452",Fairfield County
+19,Brooklyn,Town,1786,28.97,"8,210",Windham County
+20,Burlington,Town,1806,29.8,"9,301",Hartford County
+21,Canaan,Town,1739,32.95,"1,234",Litchfield County
+22,Canterbury,Town,1703,39.9,"5,132",Windham County
+23,Canton,Town,1806,24.57,"10,292",Hartford County
+24,Chaplin,Town,1822,19.43,"2,305",Windham County
+25,Cheshire,Town,1780,32.91,"29,261",New Haven County
+26,Chester,Town,1836,16.03,"3,994",Middlesex County
+27,Clinton,Town,1838,16.28,"13,260",Middlesex County
+28,Colchester,Town,1698,49.06,"16,068",New London County
+29,Colebrook,Town,1779,31.47,"1,485",Litchfield County
+30,Columbia,Town,1804,21.36,"5,485",Tolland County
+31,Cornwall,Town,1740,46.01,"1,420",Litchfield County
+32,Coventry,Town,1712,37.72,"12,435",Tolland County
+33,Cromwell,Town,1851,12.39,"14,005",Middlesex County
+34,Danbury,City,1687,42.11,"80,893",Fairfield County
+35,Darien,Town,1820,12.86,"20,732",Fairfield County
+36,Deep River,Town,1635,13.55,"4,629",Middlesex County
+37,Derby,City,1675,4.98,"12,902",New Haven County
+38,Durham,Town,1708,23.6,"7,388",Middlesex County
+39,East Granby,Town,1858,17.48,"5,148",Hartford County
+40,East Haddam,Town,1734,54.33,"9,126",Middlesex County
+41,East Hampton,Town,1767,35.59,"12,959",Middlesex County
+42,East Hartford,Town,1783,18.02,"51,252",Hartford County
+43,East Haven,Town,1785,12.26,"29,257",New Haven County
+44,East Lyme,Town,1839,34.03,"19,159",New London County
+45,East Windsor,Town,1768,26.29,"11,162",Hartford County
+46,Eastford,Town,1847,28.89,"1,749",Windham County
+47,Easton,Town,1845,27.42,"7,490",Fairfield County
+48,Ellington,Town,1786,34.05,"15,602",Tolland County
+49,Enfield,Town,1683,33.38,"44,654",Hartford County
+50,Essex,Town,1852,10.36,"6,683",Middlesex County
+51,Fairfield,Town,1666,30.03,"59,404",Fairfield County
+52,Farmington,Town,1645,28.06,"25,340",Hartford County
+53,Franklin,Town,1786,19.51,"1,922",New London County
+54,Glastonbury,Town,1690,51.37,"34,427",Hartford County
+55,Goshen,Town,1739,43.66,"2,976",Litchfield County
+56,Granby,Town,1786,40.69,"11,282",Hartford County
+57,Greenwich,Town,1665,47.83,"61,171",Fairfield County
+58,Griswold,Town,1815,34.95,"11,951",New London County
+59,Groton,Town,1705,31.3,"40,115",New London County
+60,Guilford,Town,1639,47.05,"22,375",New Haven County
+61,Haddam,Town,1662,44.03,"8,346",Middlesex County
+62,Hamden,Town,1786,32.78,"60,960",New Haven County
+63,Hampton,Town,1786,25,"1,863",Windham County
+64,Hartford,City,1635,17.31,"124,775",Hartford County
+65,Hartland,Town,1761,33.03,"2,114",Hartford County
+66,Harwinton,Town,1737,30.75,"5,642",Litchfield County
+67,Hebron,Town,1708,36.9,"9,686",Tolland County
+68,Kent,Town,1739,48.47,"2,979",Litchfield County
+69,Killingly,Town,1708,48.52,"17,370",Windham County
+70,Killingworth,Town,1667,35.33,"6,525",Middlesex County
+71,Lebanon,Town,1700,54.11,"7,308",New London County
+72,Ledyard,Town,1836,38.14,"15,051",New London County
+73,Lisbon,Town,1786,16.26,"4,338",New London County
+74,Litchfield,Town,1719,56.06,"8,466",Litchfield County
+75,Lyme,Town,1667,31.85,"2,406",New London County
+76,Madison,Town,1826,36.2,"18,269",New Haven County
+77,Manchester,Town,1823,27.26,"58,241",Hartford County
+78,Mansfield,Town,1702,44.46,"26,543",Tolland County
+79,Marlborough,Town,1803,23.28,"6,404",Hartford County
+80,Meriden,City,1806,23.75,"60,868",New Haven County
+81,Middlebury,Town,1807,17.75,"7,575",New Haven County
+82,Middlefield,Town,1866,12.7,"4,425",Middlesex County
+83,Middletown,City,1651,40.9,"47,648",Middlesex County
+84,Milford,City,1639,22.56,"52,759",New Haven County
+85,Monroe,Town,1823,26.13,"19,479",Fairfield County
+86,Montville,Town,1786,42.02,"19,571",New London County
+87,Morris,Town,1859,17.19,"2,388",Litchfield County
+88,Naugatuck,Borough,1844,16.39,"31,862",New Haven County
+89,New Britain,City,1850,13.34,"73,206",Hartford County
+90,New Canaan,Town,1801,22.13,"19,738",Fairfield County
+91,New Fairfield,Town,1740,20.46,"13,881",Fairfield County
+92,New Hartford,Town,1738,37.03,"6,970",Litchfield County
+93,New Haven,City,1638,18.85,"129,779",New Haven County
+94,New London,City,1646,5.54,"27,620",New London County
+95,New Milford,Town,1712,61.59,"28,142",Litchfield County
+96,Newington,Town,1871,13.18,"30,562",Hartford County
+97,Newtown,Town,1711,57.76,"27,560",Fairfield County
+98,Norfolk,Town,1758,45.31,"1,709",Litchfield County
+99,North Branford,Town,1831,24.92,"14,407",New Haven County
+100,North Canaan,Town,1858,19.45,"3,315",Litchfield County
+101,North Haven,Town,1786,20.77,"24,093",New Haven County
+102,North Stonington,Town,1807,54.31,"5,297",New London County
+103,Norwalk,City,1651,22.81,"85,603",Fairfield County
+104,Norwich,City,1662,28.33,"40,493",New London County
+105,Old Lyme,Town,1855,23.1,"7,603",New London County
+106,Old Saybrook,Town,1854,15.04,"10,242",Middlesex County
+107,Orange,Town,1822,17.19,"13,956",New Haven County
+108,Oxford,Town,1798,32.89,"12,683",New Haven County
+109,Plainfield,Town,1699,42.27,"15,405",Windham County
+110,Plainville,Town,1869,9.76,"17,716",Hartford County
+111,Plymouth,Town,1795,21.72,"12,243",Litchfield County
+112,Pomfret,Town,1713,40.3,"4,247",Windham County
+113,Portland,Town,1841,23.4,"9,508",Middlesex County
+114,Preston,Town,1687,30.9,"4,726",New London County
+115,Prospect,Town,1827,14.32,"9,405",New Haven County
+116,Putnam,Town,1855,20.29,"9,584",Windham County
+117,Redding,Town,1767,31.5,"9,158",Fairfield County
+118,Ridgefield,Town,1709,34.43,"24,638",Fairfield County
+119,Rocky Hill,Town,1843,13.45,"19,709",Hartford County
+120,Roxbury,Town,1796,26.23,"2,262",Litchfield County
+121,Salem,Town,1819,28.95,"4,151",New London County
+122,Salisbury,Town,1741,57.32,"3,741",Litchfield County
+123,Scotland,Town,1857,18.61,"1,726",Windham County
+124,Seymour,Town,1850,14.57,"16,540",New Haven County
+125,Sharon,Town,1739,58.7,"2,782",Litchfield County
+126,Shelton,City,1789,30.57,"39,559",Fairfield County
+127,Sherman,Town,1802,21.8,"3,581",Fairfield County
+128,Simsbury,Town,1670,33.88,"23,511",Hartford County
+129,Somers,Town,1734,28.34,"11,444",Tolland County
+130,South Windsor,Town,1845,27.96,"25,709",Hartford County
+131,Southbury,Town,1787,39.06,"19,904",New Haven County
+132,Southington,Town,1779,35.99,"43,069",Hartford County
+133,Sprague,Town,1861,13.21,"2,984",New London County
+134,Stafford,Town,1719,57.96,"12,087",Tolland County
+135,Stamford,City,1641,37.75,"122,643",Fairfield County
+136,Sterling,Town,1794,27.23,"3,830",Windham County
+137,Stonington,Town,1662,38.69,"18,545",New London County
+138,Stratford,Town,1639,17.59,"51,384",Fairfield County
+139,Suffield,Town,1674,42.21,"15,735",Hartford County
+140,Thomaston,Town,1875,12.01,"7,887",Litchfield County
+141,Thompson,Town,1785,46.94,"9,458",Windham County
+142,Tolland,Town,1715,39.71,"15,052",Tolland County
+143,Torrington,City,1740,39.79,"36,383",Litchfield County
+144,Trumbull,Town,1797,23.29,"36,018",Fairfield County
+145,Union,Town,1734,28.71,854,Tolland County
+146,Vernon,Town,1808,17.73,"29,179",Tolland County
+147,Voluntown,Town,1721,38.92,"2,603",New London County
+148,Wallingford,Town,1670,39.02,"45,135",New Haven County
+149,Warren,Town,1786,26.31,"1,461",Litchfield County
+150,Washington,Town,1779,38.19,"3,578",Litchfield County
+151,Waterbury,City,1686,28.57,"110,366",New Haven County
+152,Waterford,Town,1801,32.75,"19,517",New London County
+153,Watertown,Town,1780,29.15,"22,514",Litchfield County
+154,West Hartford,Town,1854,21.98,"63,268",Hartford County
+155,West Haven,City,1921,10.84,"55,564",New Haven County
+156,Westbrook,Town,1840,15.72,"6,938",Middlesex County
+157,Weston,Town,1787,19.8,"10,179",Fairfield County
+158,Westport,Town,1835,20.01,"26,391",Fairfield County
+159,Wethersfield,Town,1634,12.39,"26,668",Hartford County
+160,Willington,Town,1727,33.27,"6,041",Tolland County
+161,Wilton,Town,1802,26.95,"18,062",Fairfield County
+162,Winchester,Town,1771,32.28,"11,242",Litchfield County
+163,Windham,Town,1692,27.07,"25,268",Windham County
+164,Windsor,Town,1633,29.63,"29,044",Hartford County
+165,Windsor Locks,Town,1854,9.03,"12,498",Hartford County
+166,Wolcott,Town,1796,20.43,"16,680",New Haven County
+167,Woodbridge,Town,1784,18.83,"8,990",New Haven County
+168,Woodbury,Town,1673,36.47,"9,975",Litchfield County
+169,Woodstock,Town,1686,60.54,"7,964",Windham County
